@@ -1,0 +1,3 @@
+[submodule "Demos/Cloud-Integrations/genai-chatbot-app"]
+	path = Demos/Cloud-Integrations/genai-chatbot-app
+	url = https://github.com/vishal-bulbule/genai-chatbot-app.git
